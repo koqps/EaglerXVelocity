@@ -1,0 +1,61 @@
+# 
+# This example file shows you how to set up special items
+# for your mobs to equip or drop.
+SkeletonKingSword:
+  Id: 276
+  Data: 0
+  Display: '&3Greatsword of the Skeleton King'
+  Lore:
+  - '&6A powerful sword used by'
+  - '&6the King of Skeletons.'
+  Enchantments:
+  - DAMAGE_ALL:5
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  Options:
+    Health: 10
+    MovementSpeed: 0.1
+KingsCrown:
+  Id: 314
+  Data: 0
+  Amount: 1
+  Display: '&dCrown of the King'
+  Lore:
+  - '&6A kingly crowl that grants'
+  - '&6the wearer unwavering power!'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:2
+  - PROTECTION_PROJECTILE:2
+  - PROTECTION_FIRE:2
+  - PROTECTION_EXPLOSIONS:2
+  Options:
+    Health: 10
+    KnockbackResistance: 10
+BanditTunic:
+  Id: 299
+  Display: '&aBandit Tunic'
+  Lore:
+  - '&6A leather tunic taken from'
+  - '&6the corpse of a bandit.'
+  Options:
+    Color: 255,40,40
+GreenGem:
+  Id: 388
+  Display: '&aGreen Gem'
+  Lore:
+  - '&8A shiny and rough gem'
+  - '&1&lRARE'
+  Enchantments:
+  - UNBREAKING:1
+  Options:
+    Color: 255,40,40
+ecodrop1:
+  Id: 388
+  Display: '&2$100'
+  Lore:
+  - '&8Right click to redeem...'
+  Enchantments:
+  - UNBREAKING:1
+  Options:
+    Color: 255,40,40
+

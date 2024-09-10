@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724784388744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724784562348
+  login: 1724783789625
+money: '104.0'
+last-account-name: makr
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: 171.87038558453884
+  y: 72.0
+  z: 307.2689635517397
+  yaw: 1.350000023841858
+  pitch: 39.000003814697266
+logoutlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -63.6677919279865
+  y: 66.0
+  z: 4.9051210074485905
+  yaw: 235.4014892578125
+  pitch: 15.600004196166992

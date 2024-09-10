@@ -1,0 +1,18 @@
+19:31:23.792 INFO  Limbo -- Starting server...
+19:31:25.683 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+19:33:14.869 INFO  Limbo -- Player skoe connected (/127.0.0.1:57536) [V1_8]
+19:33:21.678 INFO  Limbo -- Player skoe disconnected
+19:33:40.437 INFO  Limbo -- Player skoe connected (/127.0.0.1:42326) [V1_8]
+19:33:45.577 INFO  Limbo -- Player skoe disconnected
+19:34:05.528 INFO  Limbo -- Player skoe connected (/127.0.0.1:51096) [V1_8]
+19:34:10.769 INFO  Limbo -- Player skoe disconnected
+19:38:05.096 INFO  Limbo -- Player human_magican connected (/127.0.0.1:40710) [V1_8]
+19:38:46.766 INFO  Limbo -- Player human_magican disconnected
+19:40:17.687 INFO  Limbo -- Player humanmagican connected (/127.0.0.1:49320) [V1_8]
+19:40:32.565 INFO  Limbo -- Player humanmagican disconnected
+19:42:46.074 INFO  Limbo -- Player humanmagican connected (/127.0.0.1:35102) [V1_8]
+19:42:57.715 INFO  Limbo -- Player humanmagican disconnected
+19:43:37.249 INFO  Limbo -- Player skoe connected (/127.0.0.1:51164) [V1_8]
+19:43:42.568 INFO  Limbo -- Player skoe disconnected
+19:46:41.153 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:48536) [V1_8]
+19:46:46.378 INFO  Limbo -- Player Excellent_ disconnected

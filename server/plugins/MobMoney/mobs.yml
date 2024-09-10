@@ -1,0 +1,129 @@
+entities:
+  creeper:
+    money: 2.5
+    name: creeper
+  skeleton:
+    money: 2.0
+    name: skeleton
+  spider:
+    money: 2.0
+    name: spider
+  giant:
+    money: 100.0
+    name: giant
+  zombie:
+    money: 2.0
+    name: zombie
+  slime:
+    money: 5.0
+    name: slime
+  ghast:
+    money: 15.0
+    name: ghast
+  pig_zombie:
+    money: 5.0
+    name: pig_zombie
+  enderman:
+    money: 3.0
+    name: enderman
+  cave_spider:
+    money: 2.0
+    name: cave_spider
+  silverfish:
+    money: 1.0
+    name: silverfish
+  blaze:
+    money: 5.0
+    name: blaze
+  magma_cube:
+    money: 5.0
+    name: magma_cube
+  ender_dragon:
+    money: 1000.0
+    name: ender_dragon
+  wither:
+    money: 100.0
+    name: wither
+  bat:
+    money: 0.0
+    name: bat
+  witch:
+    money: 50.0
+    name: witch
+  endermite:
+    money: 0.0
+    name: endermite
+  guardian:
+    money: 15.0
+    name: guardian
+  pig:
+    money: 0.5
+    name: pig
+  sheep:
+    money: 0.5
+    name: sheep
+  cow:
+    money: 0.5
+    name: cow
+  chicken:
+    money: 0.5
+    name: chicken
+  squid:
+    money: 0.5
+    name: squid
+  wolf:
+    money: 0.5
+    name: wolf
+  mushroom_cow:
+    money: 0.5
+    name: mushroom_cow
+  snowman:
+    money: 0.0
+    name: snowman
+  ocelot:
+    money: 0.5
+    name: ocelot
+  iron_golem:
+    money: 20.0
+    name: iron_golem
+  horse:
+    money: 3.0
+    name: horse
+  rabbit:
+    money: 0.0
+    name: rabbit
+  villager:
+    money: 0.0
+    name: villager
+  player:
+    withdrawMoney: true
+    affectMultiplier: false
+    money: 0.0
+    name: player
+general:
+  payEntitiesSpawnedBy:
+    natural: true
+    jockey: true
+    chunk_gen: true
+    spawner: true
+    egg: true
+    spawner_egg: true
+    lightning: true
+    bed: true
+    build_snowman: true
+    build_irongolem: true
+    build_wither: true
+    village_defense: true
+    village_invasion: true
+    breeding: true
+    slime_split: true
+    reinforcements: true
+    nether_portal: true
+    dispense_egg: true
+    infection: true
+    cured: true
+    ocelot_baby: true
+    silverfish_block: true
+    mount: true
+    custom: true
+    default: true

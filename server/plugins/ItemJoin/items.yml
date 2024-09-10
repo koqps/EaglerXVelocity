@@ -1,0 +1,25 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+# 
+# Modifying the Version will cause this file to break and regenerate.
+items-Version: 8
+items-Delay: 2
+items-Overwrite: false
+items-Spamming: false
+items-RestrictCount: false
+items:
+  item_1:
+    id: BOOK
+    name: '&6&lServer Menu'
+    lore:
+    - '&8Right click to access the server''s menu'
+    interact-air-right:
+    - 'player: zmenu open menu'
+  item_2:
+    id: REDSTONE
+    name: '&dCosmetics Menu'
+    lore:
+    - '&8Right click to access the cosmetics menu'
+    interact-air-right:
+    - 'player: gmenu main'

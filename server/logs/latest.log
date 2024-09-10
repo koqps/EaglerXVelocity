@@ -1,0 +1,640 @@
+[19:07:21] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[19:07:21] [Server thread/INFO]: Loading properties
+[19:07:21] [Server thread/INFO]: Default game type: SURVIVAL
+[19:07:21] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-119 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 858ab0f)
+[19:07:21] [Server thread/INFO]: Debug logging is disabled
+[19:07:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[19:07:21] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[19:07:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:07:22] [Server thread/INFO]: Data value allowed items: 
+[19:07:22] [Server thread/INFO]: Generating keypair
+[19:07:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:07:22] [Server thread/INFO]: Using default channel type
+[19:07:22] [Server thread/ERROR]: Ambiguous plugin name `WorldEdit' for files `plugins/WorldEdit.jar' and `plugins/worldedit-bukkit-7.3.6.jar' in `plugins'
+[19:07:23] [Server thread/ERROR]: Ambiguous plugin name `WorldGuard' for files `plugins/WorldGuard.jar' and `plugins/worldguard-bukkit-7.0.10-dist.jar' in `plugins'
+[19:07:23] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:07:25] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[19:07:25] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[19:07:25] [Server thread/INFO]: [CMILib] Loading CMILib v1.5.1.1
+[19:07:25] [Server thread/INFO]: [CommandToItem] Loading CommandToItem v${version}
+[19:07:25] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[19:07:25] [Server thread/INFO]: [MinecraftServerManager] Loading MinecraftServerManager v1.0.3
+[19:07:25] [Server thread/INFO]: [zHead] Loading zHead v1.4
+[19:07:25] [Server thread/INFO]: [DeluxeTags] Loading DeluxeTags v1.8.2-DEV-17
+[19:07:25] [Server thread/INFO]: [CustomItems] Loading CustomItems v1.2
+[19:07:25] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.0
+[19:07:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[19:07:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:07:27] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:07:27] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:07:27] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[19:07:28] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.0.0
+[19:07:28] [Server thread/INFO]: [CratesPlus] Loading CratesPlus v4.5.3
+[19:07:28] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.0
+[19:07:28] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.139
+[19:07:29] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.5.1
+[19:07:29] [Server thread/INFO]: [zMenu] Loading zMenu v1.0.3.3
+[19:07:29] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[19:07:29] [Server thread/INFO]: [LPC] Loading LPC v3.6.0
+[19:07:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[19:07:29] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
+[19:07:29] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[19:07:29] [Server thread/INFO]: [MythicMobs] Loading MythicMobs v2.3.0
+[19:07:29] [Server thread/INFO]: [EconomyShopGUI] Loading EconomyShopGUI v6.7.10
+[19:07:29] [Server thread/INFO]: [TAB] Loading TAB v4.1.7
+[19:07:29] [Server thread/INFO]: [EssentialsKitGUI] Loading EssentialsKitGUI v3.2
+[19:07:29] [Server thread/INFO]: [ItemJoin] Loading ItemJoin v6.0.7-RELEASE-b995
+[19:07:29] [Server thread/INFO]: [MobMoney] Loading MobMoney v5.1.8
+[19:07:29] [Server thread/INFO]: [GCore] Loading GCore v8.50.0
+[19:07:29] [Server thread/INFO]: [GadgetsMenu] Loading GadgetsMenu v4.15.2
+[19:07:29] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.0
+[19:07:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.139
+[19:07:30] [Server thread/INFO]:         __    
+[19:07:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.139
+[19:07:30] [Server thread/INFO]:   |___ |      Running on Bukkit - PandaSpigot
+[19:07:30] [Server thread/INFO]: 
+[19:07:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:07:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:07:33] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:07:33] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:07:34] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5427ms)
+[19:07:34] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[19:07:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[19:07:35] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:07:35] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[19:07:35] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[19:07:35] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.0.7-RELEASE-b995
+[19:07:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:07:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:07:35] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:07:35] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:07:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:07:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:07:35] [Server thread/INFO]: Preparing level "world"
+[19:07:35] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:07:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:07:35] [Server thread/INFO]: Clear tick list: false
+[19:07:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:07:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:07:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:07:35] [Server thread/INFO]: Mob Spawn Range: 4
+[19:07:35] [Server thread/INFO]: Anti X-Ray: true
+[19:07:35] [Server thread/INFO]: 	Engine Mode: 1
+[19:07:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:07:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:07:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:07:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:07:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:07:35] [Server thread/INFO]: Random Lighting Updates: false
+[19:07:35] [Server thread/INFO]: Structure Info Saving: true
+[19:07:35] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:07:35] [Server thread/INFO]: Max Entity Collisions: 8
+[19:07:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:07:35] [Server thread/INFO]: Max TNT Explosions: 100
+[19:07:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:07:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:07:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:07:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:07:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:07:35] [Server thread/INFO]: View Distance: 10
+[19:07:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:07:35] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:07:35] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:07:35] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:07:35] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:07:35] [Server thread/INFO]: World async lighting: false
+[19:07:35] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:07:35] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:07:35] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:07:35] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:07:35] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:07:35] [Server thread/INFO]: Water over lava flow speed: 5
+[19:07:35] [Server thread/INFO]: Fix TNT cannons: false
+[19:07:35] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:07:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:07:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:07:36] [Server thread/INFO]: Clear tick list: false
+[19:07:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:07:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:07:36] [Server thread/INFO]: Mob Spawn Range: 4
+[19:07:36] [Server thread/INFO]: Anti X-Ray: true
+[19:07:36] [Server thread/INFO]: 	Engine Mode: 1
+[19:07:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:07:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:07:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:07:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:07:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:07:36] [Server thread/INFO]: Random Lighting Updates: false
+[19:07:36] [Server thread/INFO]: Structure Info Saving: true
+[19:07:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:07:36] [Server thread/INFO]: Max Entity Collisions: 8
+[19:07:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:07:36] [Server thread/INFO]: Max TNT Explosions: 100
+[19:07:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:07:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:07:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:07:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:07:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:07:36] [Server thread/INFO]: View Distance: 10
+[19:07:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:07:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:07:36] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:07:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:07:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:07:36] [Server thread/INFO]: World async lighting: false
+[19:07:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:07:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:07:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:07:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:07:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:07:36] [Server thread/INFO]: Water over lava flow speed: 5
+[19:07:36] [Server thread/INFO]: Fix TNT cannons: false
+[19:07:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:07:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:07:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:07:36] [Server thread/INFO]: Clear tick list: false
+[19:07:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:07:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:07:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:07:36] [Server thread/INFO]: Mob Spawn Range: 4
+[19:07:36] [Server thread/INFO]: Anti X-Ray: true
+[19:07:36] [Server thread/INFO]: 	Engine Mode: 1
+[19:07:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:07:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:07:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:07:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:07:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:07:36] [Server thread/INFO]: Random Lighting Updates: false
+[19:07:36] [Server thread/INFO]: Structure Info Saving: true
+[19:07:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:07:36] [Server thread/INFO]: Max Entity Collisions: 8
+[19:07:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:07:36] [Server thread/INFO]: Max TNT Explosions: 100
+[19:07:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:07:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:07:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:07:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:07:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:07:36] [Server thread/INFO]: View Distance: 10
+[19:07:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:07:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:07:36] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:07:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:07:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:07:36] [Server thread/INFO]: World async lighting: false
+[19:07:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:07:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:07:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:07:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:07:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:07:36] [Server thread/INFO]: Water over lava flow speed: 5
+[19:07:36] [Server thread/INFO]: Fix TNT cannons: false
+[19:07:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:07:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: 777875559479974566)
+[19:07:37] [Server thread/INFO]: Preparing spawn area: 8%
+[19:07:38] [Server thread/INFO]: Preparing spawn area: 42%
+[19:07:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6118450640966379445)
+[19:07:39] [Server thread/INFO]: Preparing spawn area: 91%
+[19:07:39] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6118450640966379445)
+[19:07:40] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[19:07:40] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:07:40] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[19:07:40] [Server thread/INFO]: [ClearLag] Using version-adapter: LegacyVersionAdapter
+[19:07:40] [Server thread/INFO]: [ClearLag] Loading modules...
+[19:07:40] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[19:07:40] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[19:07:40] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[19:07:40] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.1.1
+[19:07:40] [Thread-5/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[19:07:40] [Thread-5/INFO]: [ClearLag] No updates found!
+[19:07:41] [Server thread/INFO]: Server version: v1_8_R3 - 1.8.8 - spigot  git-PandaSpigot-119 (MC: 1.8.8)
+[19:07:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.5.1.1]
+[19:07:41] [Server thread/INFO]: PlaceholderAPI hooked.
+[19:07:42] [Server thread/INFO]: Updated (EN) language file. Took 44ms
+[19:07:42] [Server thread/INFO]: [CommandToItem] Enabling CommandToItem v${version}
+[19:07:42] [Server thread/INFO]: [CommandToItem] Metrics started. This can be disabled at /plugins/bStats/config.yml.
+[19:07:42] [Server thread/INFO]: [CommandToItem] Your server is running version v1_8_R3.
+[19:07:42] [Server thread/WARN]: [CommandToItem] Unrecognised enchantment: minecraft
+[19:07:42] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[19:07:42] [Server thread/INFO]: [MinecraftServerManager] Enabling MinecraftServerManager v1.0.3
+[19:07:42] [Server thread/INFO]: [zHead] Enabling zHead v1.4
+[19:07:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: zhead [1.4]
+[19:07:42] [Server thread/INFO]: [zHead v1.4] === ENABLE START ===
+[19:07:42] [Server thread/INFO]: [zHead v1.4] Plugin Version V1.4
+[19:07:42] [Server thread/INFO]: [zHead v1.4] Loading 3 inventories
+[19:07:42] [Server thread/INFO]: [zHead v1.4] Loading 2 commands
+[19:07:42] [Server thread/INFO]: [zHead v1.4] === ENABLE DONE (604ms) ===
+[19:07:42] [Server thread/INFO]: [DeluxeTags] Enabling DeluxeTags v1.8.2-DEV-17
+[19:07:42] [Server thread/INFO]: [DeluxeTags] 37 tags loaded
+[19:07:42] [Server thread/INFO]: [DeluxeTags] Loading DeluxeTags messages.yml
+[19:07:42] [Server thread/INFO]: [DeluxeTags] Using standard hex colors format: #aaFF00
+[19:07:42] [Server thread/INFO]: [DeluxeTags] You are not using DeluxeChat!
+[19:07:42] [Server thread/INFO]: [DeluxeTags] DeluxeTags will listen to the AsyncPlayerChatEvent to provide compatibility for some chat plugins.
+[19:07:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxetags [1.8.2-DEV-17]
+[19:07:42] [Server thread/INFO]: [DeluxeTags] ----------------------------
+[19:07:42] [Server thread/INFO]: [DeluxeTags]      DeluxeTags Updater
+[19:07:42] [Server thread/INFO]: [DeluxeTags]  
+[19:07:42] [Server thread/INFO]: [DeluxeTags] You are running 1.8.2-DEV-17
+[19:07:42] [Server thread/INFO]: [DeluxeTags] The latest version
+[19:07:42] [Server thread/INFO]: [DeluxeTags] of DeluxeTags!
+[19:07:42] [Server thread/INFO]: [DeluxeTags]  
+[19:07:42] [Server thread/INFO]: [DeluxeTags] ----------------------------
+[19:07:42] [Server thread/INFO]: [CustomItems] Enabling CustomItems v1.2
+[19:07:42] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[19:07:42] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.0
+[19:07:42] [Server thread/INFO]: [CratesPlus] Enabling CratesPlus v4.5.3
+[19:07:43] [Server thread/INFO]: CratesPlus Version 4.5.3
+[19:07:43] [Server thread/INFO]: HolographicDisplays was found, hooking in!
+[19:07:43] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.5.1
+[19:07:43] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.3.3
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] === ENABLE START ===
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Plugin Version V1.0.3.3
+[19:07:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: zmenu [1.0.3.3]
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/patterns/pattern_example.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/pro_inventory.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/advanced_inventory.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/help.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/basic_inventory.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/menu.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/example_punish.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/inventories/ranks.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] plugins/zMenu/website/inventories.yml loaded successfully !
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Command /basic_command successfully register.
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Command /advanced_command successfully register.
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Command /pro_command successfully register.
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Command /openbook successfully register.
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Command /punish successfully register.
+[19:07:43] [Server thread/ERROR]: [zMenu] Plugin zMenu v1.0.3.3 has failed to register events for class fr.maxlego08.menu.listener.SwapKeyListener because org/bukkit/event/player/PlayerSwapHandItemsEvent does not exist.
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] 
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] 
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] Loading 6 commands
+[19:07:43] [Server thread/INFO]: [zMenu v1.0.3.3] === ENABLE DONE (525ms) ===
+[19:07:43] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[19:07:43] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[19:07:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:07:43] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:07:43] [Server thread/WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.3).
+[19:07:43] [Server thread/WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[19:07:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[19:07:44] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[19:07:44] [Server thread/WARN]: Version mismatch! Please update EssentialsKitGUI to the same version.
+[19:07:44] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[19:07:44] [Server thread/INFO]: No kits found to migrate.
+[19:07:44] [Server thread/INFO]: Loaded 853 items from items.csv.
+[19:07:44] [Server thread/INFO]: Using locale en
+[19:07:44] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[19:07:44] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[19:07:44] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[19:07:44] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[19:07:44] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[19:07:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:07:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:07:44] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:07:44] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v2.3.0
+[19:07:44] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Bukkit v1_8_R3 (Minecraft 1.8)...
+[19:07:44] [Server thread/INFO]: [MythicMobs] MythicMobs Vault Support has been enabled!
+[19:07:44] [Server thread/INFO]: [MythicMobs] MythicMobs WorldGuard Support has been enabled!
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 3 mobs.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 3 vanilla mob overrides.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 0 mob stacks.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 3 skills.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 2 random spawns.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 5 mythic items.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 1 drop tables.
+[19:07:45] [Server thread/INFO]: [MythicMobs] Loaded 0 mob spawners.
+[19:07:45] [Server thread/INFO]: [MythicMobs] v2.3.0 has been successfully loaded!
+[19:07:45] [Server thread/INFO]: [MythicMobs] A new version of MythicMobs is available: Mythic v5.7.1
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.7.10
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.8.8...
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: This item material is not supported in this minecraft version.
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [WARN]: Item path in config.yml: spawner-break-tools.3
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[19:07:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 612ms to complete
+[19:07:45] [Server thread/INFO]: [TAB] Enabling TAB v4.1.7
+[19:07:45] [Server thread/INFO]: [TAB] Loaded NMS hook in 71ms
+[19:07:46] [ESGUI_UTIL_THREAD #0/INFO]: [EconomyShopGUI] [INFO]: There is an update available for EconomyShopGUI, you are running v6.7.10 but found v6.8.1.
+[19:07:46] [ESGUI_UTIL_THREAD #0/INFO]: [EconomyShopGUI] [INFO]: Download at: https://www.spigotmc.org/resources/economyshopgui.69927/
+[19:07:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tab [4.1.7]
+[19:07:46] [Server thread/INFO]: [TAB] Enabled in 253ms
+[19:07:46] [Server thread/INFO]: [EssentialsKitGUI] Enabling EssentialsKitGUI v3.2
+[19:07:46] [Server thread/INFO]: [MobMoney] Enabling MobMoney v5.1.8
+[19:07:46] [Server thread/WARN]: java.lang.NoClassDefFoundError: io/lumine/xikage/mythicmobs/MythicMobs
+
+[19:07:46] [Server thread/WARN]: 	at com.anderhurtado.spigot.mobmoney.util.softdepend.MythicMobsConnector4.<init>(MythicMobsConnector4.java:9)
+
+[19:07:46] [Server thread/WARN]: 	at com.anderhurtado.spigot.mobmoney.util.softdepend.MythicMobsConnector.getInstance(MythicMobsConnector.java:11)
+
+[19:07:46] [Server thread/WARN]: 	at com.anderhurtado.spigot.mobmoney.MobMoney.setConfig(MobMoney.java:216)
+
+[19:07:46] [Server thread/WARN]: 	at com.anderhurtado.spigot.mobmoney.MobMoney.onEnable(MobMoney.java:56)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:454)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:393)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:352)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:439)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:403)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:358)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:301)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:603)
+
+[19:07:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+
+[19:07:46] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19:07:46] [Server thread/WARN]: Caused by: java.lang.ClassNotFoundException: io.lumine.xikage.mythicmobs.MythicMobs
+
+[19:07:46] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+
+[19:07:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+
+[19:07:46] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+
+[19:07:46] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+
+[19:07:46] [Server thread/WARN]: 	... 16 more
+
+[19:07:46] [Server thread/INFO]: [MobMoney] This plugin is not able to connect with MythicMobs! (Report this bug to MobMoney's developer to fix this)
+[19:07:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: MobMoney [1.0.0]
+[19:07:46] [Server thread/INFO]: [GCore] Enabling GCore v8.50.0
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v7 -> v8 (config)
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v7 -> v8 (data)
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v8.4 -> v8.5
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v8.8 -> v8.9
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v8.23 -> v8.24
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v8.24 -> v8.25
+[19:07:46] [Server thread/INFO]: [GCore-migration] Already processed v8.29 -> v8.30
+[19:07:46] [Server thread/INFO]: [GCore-8.50.0] Found server version MC_1_8_R3
+[19:07:47] [Server thread/INFO]: [GCore-8.50.0] Loading materials...
+[19:07:47] [Server thread/INFO]: [GCore-8.50.0] Loading sounds...
+[19:07:47] [Server thread/INFO]: [GCore-8.50.0] Loading particles...
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Enabled currency VAULT
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Enabled currency XP_LEVEL
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Enabled currency XP
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Loading texts...
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Text durationformatdays doesn't exist in default files (not even in en_US)
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Loaded 1 missing text from default lang for generic.yml : durationFormatDays
+[19:07:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gcore [1.0.0]
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Enabled integration for PlaceholderAPI
+[19:07:48] [Server thread/INFO]: ---- Reflection error fqxmdrq3ws ----
+Class class com.guillaumevdn.gcore.integration.mythicmobs.v4.IntegrationInstanceMythicMobsV4
+Parameters 'com.guillaumevdn.gcore.lib.integration.Integration@5e460e94'
+Constructor parameters 'com.guillaumevdn.gcore.lib.integration.Integration arg0
+[19:07:48] [Server thread/INFO]: java.lang.reflect.InvocationTargetException
+
+[19:07:48] [Server thread/INFO]: 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.lib.reflection.ReflectionConstructor.newInstance(ReflectionConstructor.java:54)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.lib.reflection.Reflection.newInstance(Reflection.java:176)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.lib.integration.Integration.activate(Integration.java:58)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.lib.GPlugin.registerAndEnableIntegration(GPlugin.java:965)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.GCore.registerAndEnableIntegrationsPostConfig(GCore.java:160)
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.lib.GPlugin.onEnable(GPlugin.java:398)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:454)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:393)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:352)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:439)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:403)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:358)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:301)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:603)
+
+[19:07:48] [Server thread/INFO]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19:07:48] [Server thread/INFO]: Caused by: java.lang.NoClassDefFoundError: io/lumine/xikage/mythicmobs/mobs/MythicMob
+
+[19:07:48] [Server thread/INFO]: 	at com.guillaumevdn.gcore.integration.mythicmobs.v4.IntegrationInstanceMythicMobsV4.<init>(IntegrationInstanceMythicMobsV4.java:29)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+
+[19:07:48] [Server thread/INFO]: 	... 20 more
+
+[19:07:48] [Server thread/INFO]: Caused by: java.lang.ClassNotFoundException: io.lumine.xikage.mythicmobs.mobs.MythicMob
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+
+[19:07:48] [Server thread/INFO]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+
+[19:07:48] [Server thread/INFO]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+
+[19:07:48] [Server thread/INFO]: 	... 22 more
+
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Couldn't enable integration for MythicMobs
+[19:07:48] [Server thread/WARN]: java.lang.Error: fqxmdrq3ws
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.reflection.Reflection.logAndRethrowError(Reflection.java:251)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.reflection.ReflectionConstructor.newInstance(ReflectionConstructor.java:57)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.reflection.Reflection.newInstance(Reflection.java:176)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.integration.Integration.activate(Integration.java:58)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.GPlugin.registerAndEnableIntegration(GPlugin.java:965)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.GCore.registerAndEnableIntegrationsPostConfig(GCore.java:160)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.GPlugin.onEnable(GPlugin.java:398)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:454)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:393)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:352)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:439)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:403)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:358)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:301)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:603)
+
+[19:07:48] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19:07:48] [Server thread/WARN]: Caused by: java.lang.reflect.InvocationTargetException
+
+[19:07:48] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.lib.reflection.ReflectionConstructor.newInstance(ReflectionConstructor.java:54)
+
+[19:07:48] [Server thread/WARN]: 	... 17 more
+
+[19:07:48] [Server thread/WARN]: Caused by: java.lang.NoClassDefFoundError: io/lumine/xikage/mythicmobs/mobs/MythicMob
+
+[19:07:48] [Server thread/WARN]: 	at com.guillaumevdn.gcore.integration.mythicmobs.v4.IntegrationInstanceMythicMobsV4.<init>(IntegrationInstanceMythicMobsV4.java:29)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+
+[19:07:48] [Server thread/WARN]: 	... 20 more
+
+[19:07:48] [Server thread/WARN]: Caused by: java.lang.ClassNotFoundException: io.lumine.xikage.mythicmobs.mobs.MythicMob
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+
+[19:07:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+
+[19:07:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+
+[19:07:48] [Server thread/WARN]: 	... 22 more
+
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Initializing worker and caches
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Registering integrations
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Initializing tasks and listeners
+[19:07:48] [Server thread/INFO]: [GCore-8.50.0] Successfully enabled
+[19:07:48] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.15.2
+[19:07:48] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]        GadgetsMenu [Free] 4.15.2 is loading...
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]       [server: git-PandaSpigot-119 (MC: 1.8.8)]
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]                  Running Java 21.0.3
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]             Date Modified: 20 August 2024
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]                            
+[19:07:48] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_8_R3
+[19:07:48] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[19:07:48] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully registered economy storage: default (GadgetsMenu)
+[19:07:48] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully set default as the active economy storage.
+[19:07:49] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
+[19:07:49] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gadgetsmenu [1.0.3]
+[19:07:49] [Server thread/INFO]: [GadgetsMenu] [Placeholder] PlaceholderAPI hooked.
+[19:07:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:07:49] [Server thread/INFO]: Done (14.195s)! For help, type "help" or "?"
+[19:07:49] [Server thread/INFO]: Timings Reset
+[19:07:49] [Craft Scheduler Thread - 0/INFO]: [ItemJoin] Hooked into { WorldGuard, PlaceholderAPI, Vault }
+[19:07:49] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[19:07:49] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[19:07:49] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[19:07:49] [Craft Scheduler Thread - 2/INFO]: New version of CMILib was detected. Please update it
+[19:07:49] [Craft Scheduler Thread - 4/INFO]: [ItemJoin] 2/2 Custom item(s) loaded!
+[19:07:49] [Craft Scheduler Thread - 5/INFO]: Fetching version information...
+[19:07:49] [Craft Scheduler Thread - 2/INFO]: [ItemJoin] Checking for updates...
+[19:07:49] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.4
+[19:07:49] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[19:07:49] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:07:49] [Craft Scheduler Thread - 7/INFO]: [GadgetsMenu] Checking for updates...
+[19:07:49] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[19:07:49] [Craft Scheduler Thread - 9/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:07:49] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.2]
+[19:07:49] [Craft Scheduler Thread - 7/INFO]: [GadgetsMenu] No update was found, you are running the latest version.
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[19:07:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[19:07:49] [Server thread/INFO]: 5 placeholder hook(s) registered!
+[19:07:50] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.3, you're on: 5.0.0
+[19:07:50] [Craft Scheduler Thread - 8/INFO]: Checking for updates via Spigot...
+[19:07:50] [Craft Scheduler Thread - 2/INFO]: [ItemJoin] Your current version: v6.0.7-RELEASE
+[19:07:50] [Craft Scheduler Thread - 2/INFO]: [ItemJoin] A new version is available: v6.1.0-RELEASE
+[19:07:50] [Craft Scheduler Thread - 2/INFO]: [ItemJoin] Get it from: https://github.com/RockinChaos/itemjoin/releases/latest
+[19:07:50] [Craft Scheduler Thread - 2/INFO]: [ItemJoin] If you wish to auto update, please type /ItemJoin Upgrade
+[19:07:50] [Craft Scheduler Thread - 8/INFO]: [Spacefacts] No update was found, you are running the latest version. Will check again later.
+[19:07:50] [Craft Scheduler Thread - 1/INFO]: [zHead v1.4] No update available.
+[19:07:50] [Craft Scheduler Thread - 3/INFO]: [zMenu v1.0.3.3] New update available. Your version: 1.0.3.3, latest version: 1.0.3.4
+[19:07:50] [Craft Scheduler Thread - 3/INFO]: [zMenu v1.0.3.3] Download plugin here: https://groupez.dev/resources/253
+[19:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7152ms or 143 ticks behind

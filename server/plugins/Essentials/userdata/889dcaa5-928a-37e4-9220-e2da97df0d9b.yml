@@ -1,0 +1,81 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724216653999
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724296570901
+  login: 1724295644689
+  kits:
+    iron: 1724114458661
+money: '101.28'
+last-account-name: test1
+logoutlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -57.54930854784159
+  y: 68.0
+  z: -38.9138984325437
+  yaw: -269.64862060546875
+  pitch: 10.950003623962402
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -201.86659117559563
+  y: 64.0
+  z: -18.45412373139223
+  yaw: -258.960205078125
+  pitch: 3.8999922275543213
+homes:
+  h:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: 173.74700188163538
+    y: 72.0
+    z: 306.3545597713743
+    yaw: -22.500001907348633
+    pitch: 23.400001525878906
+  hh:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: 171.0317425628013
+    y: 72.0
+    z: 305.2342825223368
+    yaw: -22.500001907348633
+    pitch: 23.400001525878906
+  hhhh:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: 170.90476856724302
+    y: 72.0
+    z: 308.33033613790434
+    yaw: -22.500001907348633
+    pitch: 23.400001525878906
+  hhhhh:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: 172.11281475121504
+    y: 72.0
+    z: 310.69999998807907
+    yaw: -22.500001907348633
+    pitch: 23.400001525878906
+  hhhhs:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: 173.78827127537323
+    y: 72.0
+    z: 310.49716351339765
+    yaw: -92.40000915527344
+    pitch: 20.850000381469727

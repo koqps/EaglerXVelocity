@@ -1,0 +1,40 @@
+02:06:21.888 INFO  Limbo -- Starting server...
+02:06:23.242 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+02:06:25.516 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:45452) [V1_8]
+02:06:31.341 INFO  Limbo -- Player Excellent_ disconnected
+02:26:07.764 INFO  Limbo -- Player vilabon connected (/127.0.0.1:33574) [V1_8]
+02:26:27.822 INFO  Limbo -- Player vilabon disconnected
+02:44:16.553 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:57020) [V1_8]
+02:44:20.001 INFO  Limbo -- Player Excellent_ disconnected
+03:00:09.626 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:32864) [V1_8]
+03:00:15.163 INFO  Limbo -- Player Excellent_ disconnected
+03:03:35.171 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:51452) [V1_8]
+03:03:38.365 INFO  Limbo -- Player Excellent_ disconnected
+03:23:10.017 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:52350) [V1_8]
+03:23:14.052 INFO  Limbo -- Player Excellent_ disconnected
+03:26:22.972 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:38234) [V1_8]
+03:26:27.356 INFO  Limbo -- Player Excellent_ disconnected
+03:38:47.057 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:59728) [V1_8]
+03:38:50.503 INFO  Limbo -- Player Excellent_ disconnected
+03:40:21.067 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:59752) [V1_8]
+03:40:24.599 INFO  Limbo -- Player Excellent_ disconnected
+03:59:07.925 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:49444) [V1_8]
+03:59:12.150 INFO  Limbo -- Player Excellent_ disconnected
+04:07:44.464 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:39772) [V1_8]
+04:07:47.856 INFO  Limbo -- Player Excellent_ disconnected
+04:16:01.846 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:54586) [V1_8]
+04:16:05.056 INFO  Limbo -- Player Excellent_ disconnected
+04:32:02.164 INFO  Limbo -- Player vilabon connected (/127.0.0.1:49038) [V1_8]
+04:32:11.365 INFO  Limbo -- Player vilabon disconnected
+04:32:26.816 INFO  Limbo -- Player vilabon connected (/127.0.0.1:39606) [V1_8]
+04:32:34.651 INFO  Limbo -- Player vilabon disconnected
+04:32:50.048 INFO  Limbo -- Player vilabon connected (/127.0.0.1:39758) [V1_8]
+04:32:58.302 INFO  Limbo -- Player vilabon disconnected
+04:33:13.713 INFO  Limbo -- Player vilabon connected (/127.0.0.1:37726) [V1_8]
+04:33:16.645 INFO  Limbo -- Player vilabon disconnected
+04:33:42.228 INFO  Limbo -- Player vilabon connected (/127.0.0.1:55282) [V1_8]
+04:33:54.499 INFO  Limbo -- Player vilabon disconnected
+04:37:44.013 INFO  Limbo -- Player test1 connected (/127.0.0.1:57184) [V1_8]
+04:37:48.160 INFO  Limbo -- Player test1 disconnected
+05:53:24.887 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:59902) [V1_8]
+05:53:28.065 INFO  Limbo -- Player Excellent_ disconnected

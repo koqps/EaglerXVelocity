@@ -1,0 +1,16 @@
+Data Version: 2
+Crate Locations:
+  '&5&ldonator': []
+  donator: []
+  iron:
+  - world|-41|69|-33
+  gold:
+  - world|-41|69|-30
+  diamond:
+  - world|-41|69|-27
+  emerald:
+  - world|-41|69|-24
+  tags:
+  - world|-41|69|-36
+  events:
+  - world|-41|69|-21

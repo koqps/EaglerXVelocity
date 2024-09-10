@@ -1,0 +1,1074 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.5.3 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  Diamond:
+    Knockback: 0.0
+    Block: CHEST
+    Color: AQUA
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: COOKED_BEEF
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: GOLD_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$100'
+        Amount: 4
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $100
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$100
+          lore:
+          - §7Reedeem to recieve $100
+      '6':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$1000'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $1000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$1000
+          lore:
+          - §7Reedeem to recieve $1000
+      '7':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$10000'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $10000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$10000
+          lore:
+          - §7Reedeem to recieve $10000
+      '8':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Tags Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Tags§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Tags Crate Key
+          lore:
+          - §7Right-Click on a "§5Tags§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '9':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aEmerald Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aEmerald§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEmerald Crate Key
+          lore:
+          - §7Right-Click on a "§aEmerald§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '10':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&bDiamond Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§bDiamond§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDiamond Crate Key
+          lore:
+          - §7Right-Click on a "§bDiamond§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+  Gold:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: YELLOW
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: GOLD_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: COOKED_BEEF
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$100'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $100
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$100
+          lore:
+          - §7Reedeem to recieve $100
+      '6':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$1000'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $1000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$1000
+          lore:
+          - §7Reedeem to recieve $1000
+      '7':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Tags Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Tags§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Tags Crate Key
+          lore:
+          - §7Right-Click on a "§5Tags§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '8':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&bDiamond Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§bDiamond§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDiamond Crate Key
+          lore:
+          - §7Right-Click on a "§bDiamond§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '9':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eGold Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eGold§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eGold Crate Key
+          lore:
+          - §7Right-Click on a "§eGold§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+  Iron:
+    Knockback: 0.0
+    Block: CHEST
+    Color: WHITE
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: COOKED_BEEF
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: EXP_BOTTLE
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$100'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $100
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$100
+          lore:
+          - §7Reedeem to recieve $100
+      '7':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Tags Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Tags§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Tags Crate Key
+          lore:
+          - §7Right-Click on a "§5Tags§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '8':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eGold Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eGold§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eGold Crate Key
+          lore:
+          - §7Right-Click on a "§eGold§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '9':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&fIron Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fIron§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fIron Crate Key
+          lore:
+          - §7Right-Click on a "§fIron§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+  Emerald:
+    Knockback: 0.0
+    Block: CHEST
+    Color: GREEN
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: COOKED_BEEF
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: GOLD_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$100'
+        Amount: 6
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $100
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$100
+          lore:
+          - §7Reedeem to recieve $100
+      '6':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$1000'
+        Amount: 3
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $1000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$1000
+          lore:
+          - §7Reedeem to recieve $1000
+      '7':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$10000'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $10000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$10000
+          lore:
+          - §7Reedeem to recieve $10000
+      '8':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Tags Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Tags§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Tags Crate Key
+          lore:
+          - §7Right-Click on a "§5Tags§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '9':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aEmerald Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aEmerald§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEmerald Crate Key
+          lore:
+          - §7Right-Click on a "§aEmerald§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+  Tags:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_PURPLE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&c&lez &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the ez tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§lez §7tag
+          lore:
+          - §7Reedeem to access the ez tag
+      '2':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&lBETA &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the BETA tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§lBETA §7tag
+          lore:
+          - §7Reedeem to access the BETA tag
+      '3':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&d&lTHICC &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the THICC tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lTHICC §7tag
+          lore:
+          - §7Reedeem to access the THICC tag
+      '4':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&d&lYASSS &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the YASSS tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lYASSS §7tag
+          lore:
+          - §7Reedeem to access the YASSS tag
+      '5':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6L&eG&aB&bT&dQ &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the LGBTQ tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6L§eG§aB§bT§dQ §7tag
+          lore:
+          - §7Reedeem to access the LGBTQ tag
+      '6':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&6&lIDIOT &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the IDIOT tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lIDIOT §7tag
+          lore:
+          - §7Reedeem to access the IDIOT tag
+      '7':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&c&lBRUH &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the BRUH tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§lBRUH §7tag
+          lore:
+          - §7Reedeem to access the BRUH tag
+      '8':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&dSHISHTER &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the SHISHTER tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dSHISHTER §7tag
+          lore:
+          - §7Reedeem to access the SHISHTER tag
+      '9':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&4♥ &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the ♥ tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4♥ §7tag
+          lore:
+          - §7Reedeem to access the ♥ tag
+      '10':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&bUWU &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the UWU tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bUWU §7tag
+          lore:
+          - §7Reedeem to access the UWU tag
+      '11':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&dKAW&5AII &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the KAWAII tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §dKAW§5AII §7tag
+          lore:
+          - §7Reedeem to access the KAWAII tag
+      '12':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&cOG &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the OG tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cOG §7tag
+          lore:
+          - §7Reedeem to access the OG tag
+      '13':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&bEBOY &7tag'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to access the EBOY tag
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bEBOY §7tag
+          lore:
+          - §7Reedeem to access the EBOY tag
+  Events:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: GRAY
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&d&lEvent Sword'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-5
+        - FIRE_ASPECT-2
+        - DURABILITY-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Sword
+          enchants:
+            DAMAGE_ALL: 5
+            FIRE_ASPECT: 2
+            DURABILITY: 4
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&d&lEvent Pickaxe'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-5
+        - DURABILITY-4
+        - LOOT_BONUS_BLOCKS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Pickaxe
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 4
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: '&d&lEvent Axe'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-5
+        - DURABILITY-4
+        - LOOT_BONUS_BLOCKS-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Axe
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 3
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&d&lEvent Helmet'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-4
+        - WATER_WORKER-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 4
+            WATER_WORKER: 1
+          repair-cost: 1
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&d&lEvent Chestplate'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Chestplate
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 4
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&d&lEvent Leggings'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 4
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&d&lEvent Boots'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-4
+        - DEPTH_STRIDER-3
+        - DURABILITY-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §d§lEvent Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DEPTH_STRIDER: 3
+            DURABILITY: 4
+          repair-cost: 1
+      '8':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: EXP_BOTTLE
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&aEmerald Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§aEmerald§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aEmerald Crate Key
+          lore:
+          - §7Right-Click on a "§aEmerald§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '13':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Tags Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Tags§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Tags Crate Key
+          lore:
+          - §7Right-Click on a "§5Tags§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '14':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&bDiamond Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§bDiamond§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bDiamond Crate Key
+          lore:
+          - §7Right-Click on a "§bDiamond§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '15':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eGold Crate Key'
+        Amount: 3
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eGold§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eGold Crate Key
+          lore:
+          - §7Right-Click on a "§eGold§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '16':
+        Type: ITEM
+        Item Type: PAPER
+        Item Data: 0
+        Name: '&2&l$50000'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7Reedeem to recieve $50000
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§l$50000
+          lore:
+          - §7Reedeem to recieve $50000

@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724296592501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724299884254
+  login: 1724295915199
+money: '9899.670000000000006'
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -198.16163556243015
+  y: 63.0
+  z: -28.407911488131404
+  yaw: 27.840087890625
+  pitch: 3.4499926567077637
+homes:
+  chest:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: -181.57328568495421
+    y: 28.0
+    z: -30.403598091471537
+    yaw: -4.800000190734863
+    pitch: 44.249996185302734
+  cottage:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: -208.62359123920035
+    y: 64.0
+    z: -26.18077217172184
+    yaw: 186.38987731933594
+    pitch: 48.89999771118164
+  sleep:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: -208.081259188684
+    y: 68.0
+    z: -31.51810591377664
+    yaw: 275.7900390625
+    pitch: 46.04999542236328
+logoutlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -201.32627077056662
+  y: 64.0
+  z: -32.738882256692676
+  yaw: 80.49005126953125
+  pitch: 17.699995040893555
+last-account-name: vilabon

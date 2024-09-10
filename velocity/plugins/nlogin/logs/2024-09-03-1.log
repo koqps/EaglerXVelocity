@@ -1,0 +1,41 @@
+[2024/09/03 18:59:11]: §9          __             _       
+[2024/09/03 18:59:11]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/09/03 18:59:11]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/09/03 18:59:11]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/09/03 18:59:11]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/09/03 18:59:11]: §9                  |___/            
+[2024/09/03 18:59:11]: §9 By: www.nickuc.com - V 10.3.27
+[2024/09/03 18:59:11]: §9 
+[2024/09/03 18:59:12]: §3[nLogin] [DEBUG] All settings were loaded in 859 ms.
+[2024/09/03 18:59:13]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/09/03 18:59:13]: §3[nLogin] [DEBUG] All plugin messages were loaded in 600 ms (languageByClient=false).
+[2024/09/03 18:59:13]: §3[nLogin] [DEBUG] All proxy settings were loaded in 54 ms.
+[2024/09/03 18:59:13]: §3[nLogin] [DEBUG] Loading database...
+[2024/09/03 18:59:14]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/09/03 18:59:19]: 
+[2024/09/03 18:59:19]:  §bThank you so much for choosing nLogin! §4<3
+[2024/09/03 18:59:19]: 
+[2024/09/03 18:59:19]:  §4For your safety, please read the message below:
+[2024/09/03 18:59:19]:   §cNever download nLogin from unknown sources.
+[2024/09/03 18:59:19]:   §cA modified version may contain malicious software.
+[2024/09/03 18:59:19]: 
+[2024/09/03 18:59:19]:  §3Trusted sources:
+[2024/09/03 18:59:19]:   §bwww.nickuc.com
+[2024/09/03 18:59:19]:   §bwww.github.com/nickuc
+[2024/09/03 18:59:19]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/09/03 18:59:19]: 
+[2024/09/03 18:59:19]:  §3Official support channels:
+[2024/09/03 18:59:19]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/09/03 18:59:19]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/09/03 18:59:19]:   §bEmail: §fsupport@nickuc.com
+[2024/09/03 18:59:19]:   §bYouTube: §fyoutube.com/nickuc
+[2024/09/03 18:59:19]: 
+[2024/09/03 18:59:19]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/09/03 18:59:19]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/09/03 18:59:19]: 
+[2024/09/03 19:28:29]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('skoe__', 262c2dac6d6b3410b19acb8104473061, null, null, '$2a$10$YV.bNBQ2ma8jXMhpNQ1i1uDarsd3kL6UDDF3vP3ptuPEWPJeh6WiS', '0:0:0:0:0:0:0:1%0', '2024-09-03 19:28:28.903', '2024-09-03 19:28:28.903', null, null, null)" (applied to all columns)
+[2024/09/03 19:28:29]: [nLogin] The user skoe__ has successfully registered.
+[2024/09/03 19:28:37]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'skoe__', `unique_id` = 262c2dac6d6b3410b19acb8104473061,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$YV.bNBQ2ma8jXMhpNQ1i1uDarsd3kL6UDDF3vP3ptuPEWPJeh6WiS', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-09-03 19:28:28.903, `last_seen` = 2024-09-03 19:28:37.778, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 12" (applied to [last_seen, settings] columns)
+[2024/09/03 19:29:23]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'skoe', `unique_id` = d1f02dac297036739c2edb2d10ae6bb9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$qedOaA6KRBrkziRyVOXUU.wuWTpegyNcaRnDt3VKPlbgmGKuguH7u', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-08-29 19:31:13.063, `last_seen` = 2024-09-03 19:29:23.347, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 11" (applied to [last_ip, last_seen, settings] columns)
+[2024/09/03 19:29:23]: [nLogin] The user skoe has successfully logged in.
+[2024/09/03 19:49:32]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'skoe', `unique_id` = d1f02dac297036739c2edb2d10ae6bb9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$qedOaA6KRBrkziRyVOXUU.wuWTpegyNcaRnDt3VKPlbgmGKuguH7u', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-08-29 19:31:13.063, `last_seen` = 2024-09-03 19:49:32.158, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 11" (applied to [last_seen, settings] columns)

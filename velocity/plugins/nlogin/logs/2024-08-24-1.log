@@ -1,0 +1,38 @@
+[2024/08/24 05:59:16]: §9          __             _       
+[2024/08/24 05:59:16]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/08/24 05:59:16]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/08/24 05:59:16]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/08/24 05:59:16]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/08/24 05:59:16]: §9                  |___/            
+[2024/08/24 05:59:16]: §9 By: www.nickuc.com - V 10.3.27
+[2024/08/24 05:59:16]: §9 
+[2024/08/24 05:59:17]: §3[nLogin] [DEBUG] All settings were loaded in 1009 ms.
+[2024/08/24 05:59:18]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/08/24 05:59:18]: §3[nLogin] [DEBUG] All plugin messages were loaded in 586 ms (languageByClient=false).
+[2024/08/24 05:59:18]: §3[nLogin] [DEBUG] All proxy settings were loaded in 29 ms.
+[2024/08/24 05:59:18]: §3[nLogin] [DEBUG] Loading database...
+[2024/08/24 05:59:19]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:24]:  §bThank you so much for choosing nLogin! §4<3
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:24]:  §4For your safety, please read the message below:
+[2024/08/24 05:59:24]:   §cNever download nLogin from unknown sources.
+[2024/08/24 05:59:24]:   §cA modified version may contain malicious software.
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:24]:  §3Trusted sources:
+[2024/08/24 05:59:24]:   §bwww.nickuc.com
+[2024/08/24 05:59:24]:   §bwww.github.com/nickuc
+[2024/08/24 05:59:24]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:24]:  §3Official support channels:
+[2024/08/24 05:59:24]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/08/24 05:59:24]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/08/24 05:59:24]:   §bEmail: §fsupport@nickuc.com
+[2024/08/24 05:59:24]:   §bYouTube: §fyoutube.com/nickuc
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:24]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/08/24 05:59:24]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/08/24 05:59:24]: 
+[2024/08/24 05:59:29]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Excellent_', `unique_id` = 6dbf0628c49435fdb96c9ab59f6c43f7,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$j6lf6Veiqo/2XwHGTc0nQONOmgRkX0ZJV04Ousf/b8/nXuPd9Rqie', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-08-19 20:15:53.327, `last_seen` = 2024-08-24 05:59:29.757, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 3" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/24 05:59:29]: [nLogin] The user Excellent_ has successfully logged in.
+[2024/08/24 06:00:28]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Excellent_', `unique_id` = 6dbf0628c49435fdb96c9ab59f6c43f7,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$j6lf6Veiqo/2XwHGTc0nQONOmgRkX0ZJV04Ousf/b8/nXuPd9Rqie', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-08-19 20:15:53.327, `last_seen` = 2024-08-24 06:00:28.18, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 3" (applied to [last_seen, settings] columns)

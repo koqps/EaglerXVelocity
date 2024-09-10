@@ -1,0 +1,268 @@
+# DeluxeTags version: 1.8.2-DEV-17 Main Configuration
+# 
+# Create your tags using the following format:
+# 
+# deluxetags:
+#   VIP: 
+#     order: 1
+#     tag: '&7[&eVIP&7]'
+#     description: 'This tag is awarded by getting VIP'
+# 
+# Placeholders for your chat plugin that supports PlaceholderAPI (Including DeluxeChat)
+# 
+# %deluxetags_identifier% - display the players active tag identifier
+# %deluxetags_tag% - display the players active tag
+# %deluxetags_description% - display the players active tag description
+# %deluxetags_amount% - display the amount of tags a player has access to
+# 
+# Placeholders for your essentials/chat handling formats config:
+# 
+# {deluxetags_identifier} - display the players active tag identifier
+# {deluxetags_tag} - display the players active tag
+# {deluxetags_description} - display the players active tag description
+# {deluxetags_amount} - display the amount of tags a player has access to
+force_tags: false
+check_updates: true
+legacy_hex: false
+deluxe_chat: false
+format_chat:
+  enabled: false
+  format: '{deluxetags_tag} <%1$s> %2$s'
+load_tag_on_join: true
+tag_availability:
+  available: 'yes'
+  unavailable: 'no'
+gui:
+  name: Tags Menu
+  tag_select_item:
+    material: NAME_TAG
+    data: 0
+    displayname: '&5[&d♥&5] &d{deluxetags_identifier}'
+    lore:
+    - '&fClick to apply this tag!'
+    - ''
+    - '&2[&aPreview&2] {deluxetags_tag}'
+    - '&dObtain this tag @ &5store.server.com'
+  divider_item:
+    material: STAINED_GLASS_PANE
+    data: 15
+    displayname: '&f'
+    lore: []
+  has_tag_item:
+    material: BARRIER
+    data: 3
+    displayname: '&5[&d♥&5] &dCurrent Tag &5{deluxetags_identifier}'
+    lore:
+    - '&fClick to remove your current tag!'
+  no_tag_item:
+    material: BARRIER
+    data: 3
+    displayname: '&5[&d♥&5] &dNo Tag Set'
+    lore:
+    - '&fYou do not have a tag applied at the moment!'
+    - ''
+    - '&dVisit &5store.server.com &dto purchase a tag'
+  exit_item:
+    material: ARROW
+    data: 0
+    displayname: '&5[&d♥&5] &dClose Menu'
+    lore:
+    - '&fClick to Exit this Menu'
+  next_page:
+    material: PAPER
+    data: 0
+    displayname: '&5[&d♥&5] &dNext Page'
+    lore:
+    - '&7Move to the next page'
+  previous_page:
+    material: PAPER
+    data: 0
+    displayname: '&5[&d♥&5] &dPrevious Page'
+    lore:
+    - '&7Move to the previous page'
+deluxetags:
+  Beta:
+    order: 1
+    tag: '&a[BETA]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.beta
+  LGBTQ:
+    order: 2
+    tag: '&c[&6L&eG&aB&bT&dQ&c]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.lgtbq
+  Idiot:
+    order: 3
+    tag: '&6[IDIOT]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.idiot
+  BRUH:
+    order: 4
+    tag: '&3[BRUH]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.bruh
+  Shishter:
+    order: 5
+    tag: '&d[SHISHTER]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.shishter
+  Love:
+    order: 6
+    tag: '&4[♥]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.heart
+  Ewww:
+    order: 7
+    tag: '&c[EWWWW]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.ewww
+  UwU:
+    order: 8
+    tag: '&b[UWU]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.uwu
+  Kawaii:
+    order: 9
+    tag: '&d[KAW&5AII]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.kawaii
+  OG:
+    order: 10
+    tag: '&c[OG]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.og
+  EBOY:
+    order: 11
+    tag: '&b[EBOY]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.eboy
+  EGIRL:
+    order: 12
+    tag: '&d[EGIRL]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.egirl
+  EZ:
+    order: 13
+    tag: '&c[ez]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.ez
+  REKT:
+    order: 14
+    tag: '&a[REKT]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.REKT
+  DOLLA:
+    order: 15
+    tag: '&2[$$$]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.dolla
+  COMBO:
+    order: 16
+    tag: '&b[COMBO]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.combo
+  BOSS:
+    order: 17
+    tag: '&4[BOSS]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.boss
+  TOXIC:
+    order: 18
+    tag: '&2[TOX&aIC]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.toxic
+  SAVAGE:
+    order: 19
+    tag: '&6[SAVAGE]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.savage
+  ARCTIC:
+    order: 20
+    tag: '&b[ARCTIC]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.arctic
+  DADDY:
+    order: 21
+    tag: '&9[SUGARDADDY]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.daddy
+  MOMMY:
+    order: 22
+    tag: '&5[SUGARMOMMY]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.mommy
+  NERD:
+    order: 23
+    tag: '&6[NERD]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.nerd
+  GOD:
+    order: 24
+    tag: '&6[GOD]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.god
+  GODDESS:
+    order: 25
+    tag: '&e[GODDESS]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.goddess
+  MASTER:
+    order: 26
+    tag: '&4[MASTER]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.master
+  WIZARD:
+    order: 27
+    tag: '&b[WIZARD]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.wizard
+  ABOOZ:
+    order: 28
+    tag: '&4[ABOOZ]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.abooz
+  HUNTY:
+    order: 29
+    tag: '&d[HUNTY]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.hunty
+  YASSS:
+    order: 30
+    tag: '&d[YASSS]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.yasss
+  DROPPED:
+    order: 31
+    tag: '&3[DROPPED]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.dropped
+  MKAY:
+    order: 32
+    tag: '&f[MKAY]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.mkay
+  THICC:
+    order: 33
+    tag: '&5[THICC]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.thicc
+  BAE:
+    order: 34
+    tag: '&c[BAE]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.bae
+  CARROT:
+    order: 35
+    tag: '&6[CARROT]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.carrot
+  SIGMA:
+    order: 36
+    tag: '&d&l[SIGMA]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.sigma
+  RIZZ:
+    order: 36
+    tag: '&b&l[RIZZ]'
+    description: '&fTag obtained @ store.server.com'
+    permission: tag.rizz

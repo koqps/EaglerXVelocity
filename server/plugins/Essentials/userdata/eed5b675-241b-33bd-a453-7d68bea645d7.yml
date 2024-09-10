@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724960800678
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725473842445
+  login: 1725473815789
+  kits:
+    iron: 1724441940248
+money: '1677.859999999999955'
+last-account-name: akshar
+logoutlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -540.6999999880791
+  y: 12.0
+  z: -528.3000000119209
+  yaw: 116.32333374023438
+  pitch: -2.2499921321868896
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: -168.06233777870128
+  y: 71.0
+  z: -75.81550278386902
+  yaw: 156.50146484375
+  pitch: 1.4999921321868896
+homes:
+  home:
+    world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+    world-name: world
+    x: -525.3976458931367
+    y: 28.0
+    z: -514.7131657269678
+    yaw: 38.023162841796875
+    pitch: 18.900009155273438

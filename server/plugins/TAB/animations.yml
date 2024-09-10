@@ -1,0 +1,32 @@
+# Config by Zyro Studio
+# https://twitter.com/zyrostudio
+# ==================================== #
+
+tabAbove:
+  change-interval: 8000
+  texts:
+    - '&b&n[Store]&7 [Discord] [Vote] [Support]'
+    - '&7[Store] &d&n[Discord]&7 [Vote] [Support]'
+    - '&7[Store] [Discord] &e&n[Vote]&7 [Support]'
+    - '&7[Store] [Discord] [Vote] &a&n[Support]'
+tabLine1:
+  change-interval: 8000
+  texts:
+    - '&fSupport us by donating'
+    - '&fContact staff if you require assistance'
+tabLine2:
+  change-interval: 8000
+  texts:
+    - '&fCool cosmetics with rank purchase'
+    - '&fHave any questions or need help'
+tabBelow:
+  change-interval: 8000
+  texts:
+  - '&bStore'
+  - '&ddiscord.gg'
+  - '&evote,gg'
+
+
+# ==================================== #
+# Official TAB Wiki
+# https://github.com/NEZNAMY/TAB/wiki

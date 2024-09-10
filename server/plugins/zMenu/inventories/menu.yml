@@ -1,0 +1,73 @@
+name: 'Menu'
+size: 45
+items:
+  btn-20:
+    slot: 20
+    item:
+      name: '&d&lRanks'
+      material: NETHER_STAR
+      lore:
+      - '★ &bHere you may access our &dranks'
+      - '★ &dRanks &bprovide you with different commands'
+      - '★ &bThese &dranks &bare not p2w'
+    closeInventory: true
+    consoleCommands:
+      - 'zmenu open ranks %player%'
+  btn-22:
+    slot: 22
+    item:
+      name: '&c&lShop'
+      material: diamond
+      lore: 
+      - '★ &eHere you may access the &cShop'
+      - '★ &eThe &cshop &eprovides a variety of &bresources'
+    isPermanent: true
+    closeInventory: true
+    consoleCommands:
+      - 'shop %player%'
+  btn-24:
+    slot: 24
+    item:
+      material: PAPER
+      name: '&a&lHelp'
+      lore: 
+      - '★ &eHere you may access the &ahelp page'
+    isPermanent: true
+    closeInventory: true
+    consoleCommands:
+      - 'zmenu open help %player%'
+  mySecondButton:
+    # Slots that you want to put the item. Starts from 0 (https://docs.zmenu.dev/configurations/buttons#slot)
+    slot: 36
+    # We will add an item with the head of the player who will open the inventory.
+    item:
+      # This allows you to specify a nickname to display a player head. To display the head of the player who will open the inventory you must use the placeholder %player%
+      # You do not need to specify the material and/or data, the plugin will automatically do it.
+      playerHead: "%player%"
+      # As for the first button you can specify a name and a lore
+      name: "&b&lYou"
+      lore:
+        - "&7Click here to access cosmetics"
+    consoleCommands: 
+      - 'itemjoin get item_2 %player%'
+
+#
+openWithItem:
+  # Define the item that will be clicked
+  item:
+    material: compass
+    name: "&6Menu"
+    lore:
+      - "&7Click me to open the server's menu"
+  # Look at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/block/Action.html
+  actions:
+    - RIGHT_CLICK_BLOCK
+    - RIGHT_CLICK_AIR
+  # Define the type of verification.
+  # Depending on your configuration and need you will define a certain type of verification. Here are all the types that exist:
+  # - full -> Allows to check the itemStack in full, will use the ItemStack#isSimilar method.
+  # - material -> Allows to check only the material
+  # - name -> Allows to check only the display name
+  # - lore -> Allows to check only the lore
+  # - modelid -> Allows to check only the Custom Model Id
+  type: full

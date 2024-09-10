@@ -1,0 +1,57 @@
+name: Help
+size: 45
+items:
+  btn-22:
+    slot: 22
+    item:
+      material: PAPER
+      name: '&6Commands'
+      lore:
+        - '✰ &f/shop'
+        - '✰ &f/tpa'
+        - '✰ &f/sethome & /home'
+        - '✰ &f/jobs'
+        - '✰ &f/zhead &f[&aEmerald &frank only&f]'
+        - '✰ &f/warp'
+        - '&8More will come in the future...'
+  btn-21:
+    slot: 21
+    item:
+      material: EMERALD
+      name: '&cEconomy'
+      lore:
+        - '&7This server is built on &ceconomy'
+        - '&7Which means that you can buy and sell items in the shop'
+        - '&7Ranks do &c&nNOT&7 interfere with the economy'
+        - '&7More things will arrive in shop as the server progresses'
+  btn-23:
+    slot: 23
+    item:
+      material: beacon
+      name: '&bWarps'
+      lore:
+        - '✰ &f/warp crates'
+        - '✰ &f/warp shop'
+        - '✰ &f/warp events'
+        - '&8New warps wil come soon...'
+  btn-40:
+    slot: 40
+    item:
+      material: COMPASS
+      name: '&c&lBACK'
+    closeInventory: true
+    consoleCommands:
+      - 'zmenu open menu %player%'
+  btn-53:
+    item:
+      material: STAINED_GLASS_PANE
+      data: 7
+    slots:
+      - 0-9
+      - 17-18
+      - 26-27
+      - 35-36
+      - 37-39
+      - 41-43
+      - 44-48
+      - 50-53

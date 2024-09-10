@@ -1,0 +1,50 @@
+kits:
+  diamond:
+    delay: 10000000000
+    items:
+    - ironhelmet 1 name:&b&lHelmet protection_environmental:3 durability:3
+    - chainmailchestplate 1 name:&b&lChestplate protection_environmental:3 durability:3
+    - ironleggings 1 name:&b&lPants protection_environmental:3 durability:3
+    - chainmailboots 1 name:&b&lBoots protection_environmental:3 durability:3
+    - ironsword 1 name:&b&lIron_Sword damage_all:2 durability:2
+    - ironpickaxe 1 name:&b&lIron_Pickaxe dig_speed:2 durability:2
+    - ironaxe 1 name:&b&lIron_Axe dig_speed:2 durability:2
+    - beef 16
+    - tripwirehook 1 name:&b&lDiamond_&7Key lore:&7Reedeem_to_recieve_your_diamond_key
+  emerald:
+    delay: 10000000000
+    items:
+    - diamondhelmet 1 name:&a&lHelmet protection_environmental:1 durability:1
+    - ironchestplate 1 name:&a&lChestplate protection_environmental:3 durability:3
+    - diamondleggings 1 name:&a&lPants protection_environmental:1 durability:1
+    - ironboots 1 name:&a&lBoots protection_environmental:3 durability:3
+    - ironsword 1 damage_all:3 durability:2
+    - diamondpickaxe 1 dig_speed:1 durability:2
+    - diamondaxe 1 dig_speed:1 durability:2
+    - beef 32
+    - tripwirehook 1 name:&a&lEmerald_&7Key lore:&7Reedeem_to_recieve_your_emerald_key
+  iron:
+    delay: 100000000000
+    items:
+    - leatherhelmet 1 name:&8&lHelmet protection_environmental:1 durability:1 color:1644825
+    - leatherchestplate 1 name:&8&lChestplate protection_environmental:1 durability:1
+      color:1644825
+    - leatherleggings 1 name:&8&lPants protection_environmental:1 durability:1 color:1644825
+    - leatherboots 1 name:&8&lBoots protection_environmental:1 durability:1 color:1644825
+    - stonesword 1 name:&8&lStone_Sword damage_all:1 durability:1
+    - stonepickaxe 1 name:&8&lStone_Pickaxe dig_speed:1 durability:1
+    - stoneaxe 1 name:&8&lStone_Axe dig_speed:1 durability:1
+    - beef 5
+    - tripwirehook 1 name:&7&lIron_&7Key lore:&7Reedeem_to_recieve_your_iron_key
+  gold:
+    delay: 1000000000
+    items:
+    - leatherhelmet 1 name:&6&lHelmet protection_environmental:2 durability:2 color:1644825
+    - chainmailchestplate 1 name:&6&lChestplate protection_environmental:2 durability:2
+    - leatherleggings 1 name:&6&lPants protection_environmental:2 durability:2 color:1644825
+    - chainmailboots 1 name:&6&lBoots protection_environmental:2 durability:2
+    - ironsword 1 durability:1
+    - stonepickaxe 1 name:&6&lStone_Axe dig_speed:2 durability:2
+    - stoneaxe 1 name:&6&lStone_Axe dig_speed:2 durability:2
+    - beef 8
+    - tripwirehook 1 name:&6&lGold_&7Key lore:&7Reedeem_to_recieve_your_gold_key

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725565412122
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725566005765
+  login: 1725565377763
+  kits:
+    diamond: 1725565738937
+money: '101.0'
+last-account-name: humanmagican
+logoutlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: 5.210090250392165
+  y: 125.0
+  z: 269.8103082694165
+  yaw: -76.29861450195312
+  pitch: 7.800004005432129
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: 20.112098657029005
+  y: 69.13963453200465
+  z: 237.55537273436767
+  yaw: -131.7001953125
+  pitch: 42.45001220703125

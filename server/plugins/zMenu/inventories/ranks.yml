@@ -1,0 +1,96 @@
+name: '&l&2Ranks'
+size: 54
+items:
+  btn-10:
+    slot: 11
+    item:
+      material: iron_ingot
+      name: '&f&lIron'
+      lore:
+        - '&d&lYou get:'
+        - ''
+        - '☆ &9kit &f&l&nIron'
+        - '☆ &9/hat command'
+        - ''
+        - '☆ &9Prefix: &fIron'
+        - ''
+        - '&fPrice: &2$1'
+      glow: true
+  btn-53:
+    item:
+      material: STAINED_GLASS_PANE
+      data: 7
+    slots:
+      - 0-9
+      - 17-18
+      - 26-27
+      - 35-36
+      - 39-41
+      - 44-48
+      - 50-53
+  btn-11:
+    slot: 12
+    item:
+      material: gold_ingot
+      name: '&6&lGold'
+      lore:
+        - '&d&lYou get'
+        - ''
+        - '☆ &fEverything from &f&lIron'
+        - ''
+        - '☆ &9kit &6&l&nGold'
+        - '☆ &9Ablity to set &c&n3&9 &9homes'
+        - ''
+        - ''
+        - '☆ &9Prefix &6&lGold'
+        - ''
+        - '&fPrice: &2$2'
+      glow: true
+  btn-12:
+    slot: 13
+    item:
+      material: diamond
+      name: '&b&lDiamond'
+      lore:
+        - '&d&lYou get:'
+        - ''
+        - '☆ &fEverything from &6&lGold'
+        - ''
+        - '☆ &9kit &b&l&nDiamond'
+        - '☆ &9Ablity to set &c&n4&9 &9homes'
+        - '☆ &9Ablity to use &5Cosmetics'
+        - ''
+        - ''
+        - '☆ &9Prefix &b&lDiamond'
+        - ''
+        - '&fPrice: &2$3'
+      glow: true
+  btn-13:
+    slot: 14
+    item:
+      material: Emerald
+      name: '&a&lEmerald'
+      lore:
+        - '&d&lYou get:'
+        - ''
+        - '&fEverything from &b&lDiamond'
+        - ''
+        - '☆ &9kit &a&l&nEmerald'
+        - '☆ &c&n/zhead&9 &9command'
+        - '☆ &9Ablity to set &c&n5&9 &9homes'
+        - ''
+        - ''
+        - '☆ &9Prefix &a&lEmerald'
+        - ''
+        - '&fPrice: &2$5'
+      glow: true
+  btn-50:
+    slot: 49
+    item:
+      name: '&c&lBACK'
+      material: COMPASS
+    closeInventory: true
+    consoleCommands:
+      - 'zmenu open menu %player%'
+  
+ 

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725909174677
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725910258776
+  login: 1725910267574
+money: '366.64'
+last-account-name: skoe
+logoutlocation:
+  world: 7120fc4b-e05f-42cf-be7f-8dee18d92724
+  world-name: world_nether
+  x: 194.82751066093877
+  y: 47.93752379186496
+  z: 173.60703889410735
+  yaw: -50.84995651245117
+  pitch: 28.95001220703125
+lastlocation:
+  world: c8a18e8d-e9da-48ee-9cb8-c90c882070a4
+  world-name: world
+  x: 1647.587226599414
+  y: 24.0
+  z: 1490.3333303049894
+  yaw: 133.95001220703125
+  pitch: 32.69999313354492

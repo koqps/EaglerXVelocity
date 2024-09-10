@@ -1,0 +1,6 @@
+18:59:46.100 INFO  Limbo -- Starting server...
+18:59:49.050 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+19:01:11.983 INFO  Limbo -- Player Excellent_ connected (/127.0.0.1:45814) [V1_8]
+19:01:14.650 INFO  Limbo -- Player Excellent_ disconnected
+19:23:22.108 INFO  Limbo -- Player skoe connected (/127.0.0.1:38524) [V1_8]
+19:23:31.769 INFO  Limbo -- Player skoe disconnected

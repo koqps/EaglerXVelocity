@@ -528,7 +528,7 @@ security:
     enabled: true
 
     # Sets the maximum number of records per IP address.
-    limit: 3
+    limit: 100000000
 
     # Defines the list of IPs that ignore the limitation.
     bypass:
